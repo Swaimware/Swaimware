@@ -1,4 +1,8 @@
-### Hi there 👋
+# Swaimware's Repository
+
+## Introduction
+
+Thanxs for visiting my repository.  I'm a Control Engineer with a passion for software.  My goal on GitHub is to give back to the community.  My software development usually surrounds industry solutions. 
 
 <!--
 **Swaimware/Swaimware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
